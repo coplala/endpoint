@@ -1,0 +1,14 @@
+{
+    "global": {
+        "globallogs": "Yerba Rewrite"
+    },
+    "windows": {
+        "product": "Yerba",
+        "exploit_version": "v2",
+        "roblox_version": "version-8e6e698468a04d3f",
+        "changelog": "Updated to latest version"
+    },
+    "macos": {},
+    "ios": {},
+    "android": {}
+}
